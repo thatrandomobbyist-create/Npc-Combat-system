@@ -202,5 +202,4 @@ This project represents a step toward building more advanced and reusable gamepl
 
 ---
 
-Add gameplay screenshots or GIFs here to showcase behavior.
 
